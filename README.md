@@ -47,6 +47,7 @@ This project references and uses the following open source models and datasets. 
 
 #### Related Open Source Models
 
+[EarthMind](https://github.com/shuyansy/EarthMind)
 
 ### Citation
 
