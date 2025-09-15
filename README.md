@@ -8,6 +8,12 @@
 </div>
 
 <p align="center">
+    <a href="http://arxiv.org/abs/2408.09110"><img src="https://img.shields.io/badge/Arxiv-2418.09110-b31b1b.svg?logo=arXiv"></a>
+    <a href="https://github.com/insait-institute/EarthMind2-website/index.html"><img src="https://img.shields.io/badge/EarthMind2-Project_Page-<color>"></a>
+    <a href="https://github.com/insait-institute/EarthMind2/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow"></a>
+</p>
+
+<p align="center">
   <a href="#news">News</a> |
   <a href="#abstract">Abstract</a> |
   <a href="#engine">Engine</a> |
