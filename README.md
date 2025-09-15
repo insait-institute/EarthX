@@ -32,7 +32,7 @@ pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https
 pip install -r requirements.txt
 
 # method 1: pip install mmcv==2.1.0 -f https://download.openmmlab.com/mmcv/dist/cu121/torch2.3/index.html 
-# method 2 local install:  pip install /home/jiancheng_pan/mmcv-2.2.0-cp310-cp310-manylinux1_x86_64.whl
+# method 2 local install:  pip install mmcv-2.2.0-cp310-cp310-manylinux1_x86_64.whl
 # method 3 openmim install:
 pip install -U openmim
 mim install mmengine
