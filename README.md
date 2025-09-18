@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="asset/earthmind2.png" alt="Image" width="100">
+    <img src="asset/earthx2.png" alt="Image" width="100">
 </p>
 <div align="center">
 <h1 align="center">EarthX: Toward Fine-Grained Spatial and Temporal Understanding for Remote Sensing
@@ -9,8 +9,8 @@
 
 <p align="center">
     <a href="http://arxiv.org/abs/2408.09110"><img src="https://img.shields.io/badge/Arxiv-2418.09110-b31b1b.svg?logo=arXiv"></a>
-    <a href="https://github.com/insait-institute/EarthMind2-website/index.html"><img src="https://img.shields.io/badge/EarthMind2-Project_Page-<color>"></a>
-    <a href="https://github.com/insait-institute/EarthMind2/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow"></a>
+    <a href="https://github.com/insait-institute/earthx2-website/index.html"><img src="https://img.shields.io/badge/earthx2-Project_Page-<color>"></a>
+    <a href="https://github.com/insait-institute/earthx2/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow"></a>
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 
 ### Environment Setup
 ```
-conda create -n earthmind python=3.10 -y
-conda activate earthmind
-cd ~/projects/EarthMind2
+conda create -n earthx python=3.10 -y
+conda activate earthx
+cd ~/projects/earthx2
 export LD_LIBRARY_PATH=/opt/modules/nvidia-cuda-12.1.0/lib64:$LD_LIBRARY_PATH
 export PATH=/opt/modules/nvidia-cuda-12.1.0/bin:$PATH
 # conda install pytorch==2.3.1 torchvision==0.18.1 pytorch-cuda=12.1 cuda -c pytorch  -c "nvidia/label/cuda-12.1.0" -c "nvidia/label/cuda-12.1.1"
@@ -53,14 +53,14 @@ This project references and uses the following open source models and datasets. 
 
 #### Related Open Source Models
 
-[EarthMind](https://github.com/shuyansy/EarthMind)
+[EarthMind](https://github.com/shuyansy/earthx)
 
 ### Citation
 
 If you are interested in the following work, please cite the following paper.
 
 ```
-@article{shu2025earthmind,
+@article{shu2025earthx,
   title={EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models},
   author={Shu, Yan and Ren, Bin and Xiong, Zhitong and Paudel, Danda Pani and Van Gool, Luc and Demir, Begum and Sebe, Nicu and Rota, Paolo},
   journal={arXiv preprint arXiv:2506.01667},
