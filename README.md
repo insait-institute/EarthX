@@ -30,7 +30,7 @@
 ```
 conda create -n earthx python=3.10 -y
 conda activate earthx
-cd ~/projects/earthx2
+cd ~/projects/earthx
 export LD_LIBRARY_PATH=/opt/modules/nvidia-cuda-12.1.0/lib64:$LD_LIBRARY_PATH
 export PATH=/opt/modules/nvidia-cuda-12.1.0/bin:$PATH
 # conda install pytorch==2.3.1 torchvision==0.18.1 pytorch-cuda=12.1 cuda -c pytorch  -c "nvidia/label/cuda-12.1.0" -c "nvidia/label/cuda-12.1.1"
