@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="asset/earthx2.png" alt="Image" width="100">
+    <img src="asset/earthx.png" alt="Image" width="100">
 </p>
 <div align="center">
 <h1 align="center">EarthX: Toward Fine-Grained Spatial and Temporal Understanding for Remote Sensing
