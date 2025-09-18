@@ -3,7 +3,8 @@
     <img src="asset/earthx.png" alt="Image" width="100">
 </p>
 <div align="center">
-<h1 align="center">EarthX: Toward Fine-Grained Spatial and Temporal Understanding for Remote Sensing
+<h1 align="center">EarthX: A Unified Earth Observation Foundation Model for Spatial and Temporal Understanding
+
 </h1>
 </div>
 
